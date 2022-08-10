@@ -3,7 +3,7 @@
 # Who Are We?
 The Modding Community (TMC) is a community/company with goals to push more spotlight/attention and support within the modding community, especially for gaming. Our primary goal is to introduce as many new people/gamers to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things generally more enjoyable in gaming as a whole.
 
-Check out more details on our goals and community features [here](https://moddingcommunity.com/)!
+Check out more details on our goals and community features [here](https://github.com/modcommunity/Links-And-Info/blob/main/goals.md)!
 
 # Social Media Groups/Accounts
 * Discord - [dsc.gg/modcommunity](https://dsc.gg/modcommunity)
