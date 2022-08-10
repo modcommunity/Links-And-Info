@@ -1,6 +1,6 @@
 # [The Modding Community](https://moddingcommunity.com/)
 
-# Goals/Features
+# Our Goals/Features
 The Modding Community (TMC) is a community/company with goals to push more spotlight/attention and support within the modding community, especially for gaming. Our primary goal is to introduce as many new people/gamers to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things generally more enjoyable in gaming as a whole. Additionally, we plan on the following.
 
 * A push/movement for improving modding support and modding/community spotlight in as many games as possible including community server support. Big companies we'll be reaching out to and perhaps presenting stuff like the below to is [Valve](https://www.valvesoftware.com/en/) and [Facepunch](https://facepunch.com/) since they handle a majority of the server browser back-ends (especially [Valve](https://www.valvesoftware.com/en/) with their [Master Server](https://developer.valvesoftware.com/wiki/Server_queries)).
