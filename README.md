@@ -1,7 +1,7 @@
-Website => https://moddingcommunity.com/
+# [The Modding Community](https://moddingcommunity.com/)
 
-# Goal
-The Modding Community (TMC) is going to be a big project aimed to support the modding community. One thing we will focus a lot on is thinking of ideas on how to improve the modding/community support in as many games as possible (e.g. changes to the server browser for example). This includes support for community servers in games such as Rust, Garry's Mod, Counter-Strike: Source/Global Offensive, Team Fortress 2, and many more!
+# Who Are We?
+The Modding Community (TMC) is a community/company with goals to push more spotlight/attention and support within the modding community, especially for gaming. Our primary goal is to introduce as many new people/gamers to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things generally more enjoyable in gaming as a whole.
 
 # Social Media Groups/Accounts
 * Discord - [dsc.gg/modcommunity](https://dsc.gg/modcommunity)
