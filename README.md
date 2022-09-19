@@ -1,11 +1,10 @@
-# [The Modding Community](https://moddingcommunity.com/)
+<a href="https://moddingcommunity.com/about" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
+# [Who Are We?](https://moddingcommunity.com/about)
+We are a community that shines spotlight and support onto the modding community. We introduce many new users to the modding community which in return improves content creation, career opportunities, talent, and more along with make things generally more enjoyable in gaming and entertainment as a whole.
 
-# Who Are We?
-We are a community with goals to shine spotlight and support onto the modding community, especially for gaming. Our primary goal is to introduce as many new people/gamers to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things generally more enjoyable in gaming as a whole.
+Please check out our about page/slideshow [here](https://moddingcommunity.com/about) for a simpler explanation!
 
-Check out more details on our goals and community features [here](https://github.com/modcommunity/Links-And-Info/blob/main/goals.md)!
-
-# Social Media Groups/Accounts
+# [Social Network](https://moddingcommunity.com/forums/topic/3-all-social-media-platforms/#comment-3)
 * Discord - [dsc.gg/modcommunity](https://dsc.gg/modcommunity)
 * Steam - [steamcommunity.com/groups/moddingcommunity](https://steamcommunity.com/groups/moddingcommunity)
 * TikTok - [tiktok.com/@modcommunity](https://tiktok.com/@modcommunity)
@@ -16,4 +15,5 @@ Check out more details on our goals and community features [here](https://github
 * Twitch - [twitch.tv/modcomm](https://twitch.tv/modcomm)
 * GitHub - [github.com/modcommunity](https://github.com/modcommunity)
 * FaceBook - [facebook.com/modcommunity](https://facebook.com/modcommunity)
+* Linkedin - [linkedin.com/company/modcommunity](https://linkedin.com/company/modcommunity)
 * MySpace - [myspace.com/modcommunity](https://myspace.com/modcommunity)
